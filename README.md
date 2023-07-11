@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tnaveer Ahmed</h1>
-- 🔭 I’m currently working on **React.js and Node.js**
+<h1 align="center">Hi, I'm Tnaveer Ahmed</h1>
+- 🔭 I’m currently working on **React.js/Next.js Node.js and Laravel**
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -9,6 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+e.engrtanveer@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
