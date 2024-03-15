@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Tnaveer Ahmed</h1>
 - 🔭 I’m currently working on **React.js/Next.js Node.js and Laravel**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently Working **Web Development and IOT Projects**
 
-- 👯 I’m looking to collaborate on **TensorFlow and Machine Learning**
+- 👯 I’m looking to collaborate on **IOT, TensorFlow and Machine Learning**
 
 - 📫 How to reach me **e.engrtanveer@gmail.com**
 
