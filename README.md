@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tnaveer Ahmed</h1>
-- 🔭 I’m currently working on **React.js/Next.js Node.js and Laravel**
+- 🔭 I have good command on these web technologies **React.js/Next.js Node.js and Laravel**
 
 - 🌱 I’m currently Working **Web Development and IOT Projects**
 
