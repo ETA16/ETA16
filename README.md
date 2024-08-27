@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Tnaveer Ahmed</h1>
+
 🔭 I have strong expertise in React.js, Next.js, Node.js, Laravel, Redux, and TypeScript.
 
 🌱 I’m currently working on Web Development, IoT Projects, and Embedded Systems.
